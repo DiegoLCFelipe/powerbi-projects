@@ -8,7 +8,7 @@ Aqui você encontrará dashboards interativos que desenvolvi para diferentes ár
 
  - **Objetivo:** Controlar a qualidade dos serviços prestados pelo setor de compras
 - **Principais métricas:** Volume de Negociação, Estimativa de Saving, Lead time de atendimento, controle de inflação interna.
-- ![Screenshot](imagens/supply_chain.png)
+- ![Screenshot](imagens/Volume de Negociações.png)
 
 ## 📂 Estrutura
 - `dashboards/` → arquivos .pbix
