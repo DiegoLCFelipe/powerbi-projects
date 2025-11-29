@@ -8,7 +8,8 @@ Aqui você encontrará dashboards interativos que desenvolvi para diferentes ár
 
  - **Objetivo:** Controlar a qualidade dos serviços prestados pelo setor de compras
 - **Principais métricas:** Volume de Negociação, Estimativa de Saving, Lead time de atendimento, controle de inflação interna.
-- ![Screenshot](imagens/Volume de Negociações.png)
+Página 1: Volume de Negociações
+![Screenshot](/imagens/volume-de-negociacoes.png)
 
 ## 📂 Estrutura
 - `dashboards/` → arquivos .pbix
@@ -21,4 +22,3 @@ Aqui você encontrará dashboards interativos que desenvolvi para diferentes ár
 1. Baixe os arquivos `.pbix` em `dashboards/`
 2. Abra no Power BI Desktop
 3. Explore os relatórios interativos
-
